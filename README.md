@@ -22,5 +22,8 @@ The overall objective is to refactor the code and keep the tests passing.  There
 * Invite *re-leased-hiring* as a reviewer to the PR.
 * Let your hiring rep know your refactoring task is ready for review.
 
-
-
+## Code changes by John Francis Ochotorina
+1. Added NUnitTest Adapter
+2. Moq Framework
+3. Added Dependency Injection
+4. Improved the ProcessPayment method.
